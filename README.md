@@ -1,5 +1,5 @@
-# k0nnk.us.to
-http://k0nnk.us.to website's code. Feel free to check out my website with all sorts of info!
+# k0nnk.com
+https://k0nnk.com website's code. Feel free to check out my website with all sorts of info!
 
 This code was built from the Mobrise website builder. https://mobirise.com/
 
